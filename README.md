@@ -3,4 +3,5 @@ A way to save coordinates from your Minecraft world (or any dictionaries for tha
 
 TODO:
 - dimension branching
-- object oriented TK-Window
+- single json-file instance in App-Class
+
